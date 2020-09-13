@@ -3,7 +3,9 @@ A repo for various programming project ideas, from simple to advanced.
 Do you want to contribute? Check [this](https://github.com/elvelive/project-ideas/blob/master/CONTRIBUTION.md) .md file for instructions.
 
 ## Coding Problems
+
 ## Desktop Software
+Because this is such a large category there will be no easy, medium or advanced categories, but projects will instead be sorted by type.
 
 ## Web
 ### Easy
@@ -22,7 +24,7 @@ Do you want to contribute? Check [this](https://github.com/elvelive/project-idea
 ### Medium
 | Project | Description |
 | --- | --- |
-|  |  |
+| White board | Create a website where you can take notes and draw pictures. If you want to make it more challenging, try to make it so you can invite some friends. |
 
 ### Advanced
 | Project | Description |
