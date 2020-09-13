@@ -38,7 +38,7 @@ Because this is such a large category there will be no easy, medium or advanced 
 ### Filing
 | Project | Description |
 | --- | --- |
-| JSON to CSV | Create a program, with our without UI, that converts JSON files to CSV format. If you want a challenge, reverse. |
+| JSON to CSV | Create a program, with or without UI, that converts JSON files to CSV format. If you want a challenge, reverse. |
 
 ### Graphics
 | Project | Description |
