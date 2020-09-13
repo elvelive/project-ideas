@@ -36,6 +36,7 @@ Because this is such a large category there will be no easy, medium and advanced
 | Upchecker | Create an application that pings a list of websites at an interval to see if they respond or not. |
 | FTP client | Make your own simple FTP client. If you want to make it harder, support SSH or SSL (SFTP). |
 | HTTP server | Create a simple HTTP server that can listen for requests and process them. |
+| Packet sniffer | Similar to the bandwidth monitor, but instead monitors individual packets. |
 
 
 ### Filing
