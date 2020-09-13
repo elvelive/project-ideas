@@ -1,4 +1,4 @@
-# Project Ideas
+# Project Ideas :book:
 A repo for various programming project ideas, from simple to advanced.
 Do you want to contribute? Check [this](https://github.com/elvelive/project-ideas/blob/master/CONTRIBUTION.md) .md file for instructions.
 
