@@ -9,8 +9,8 @@ Do you want to contribute? Check [this](https://github.com/elvelive/project-idea
 { [Easy](https://github.com/elvelive/project-ideas#easy),
 [Medium](https://github.com/elvelive/project-ideas#medium),
 [Advanced](https://github.com/elvelive/project-ideas#advanced) }
-4. None
-5. None
+4. [Bots](https://github.com/elvelive/project-ideas#bots)
+5. [Finance](https://github.com/elvelive/project-ideas#finance)
 
 ## Coding Problems
 
@@ -65,3 +65,8 @@ Because this is such a large category there will be no easy, medium or advanced 
 | Project | Description |
 | --- | --- |
 | Content Managment System | Start small and expand outwards, look to Drupal, WordPress, Squarespace etc. for inspiration. |
+
+## Bots
+Because this is such a large subject and there being so many different kinds of bots, it gets it's own category.
+
+## Finance
