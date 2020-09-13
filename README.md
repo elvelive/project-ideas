@@ -23,7 +23,7 @@ Do you want to contribute? Check [this](https://github.com/elvelive/project-idea
 ## Coding Problems
 
 ## Software
-Because this is such a large category there will be no easy, medium or advanced categories, but projects will instead be sorted by type.
+Because this is such a large category there will be no easy, medium and advanced categories, but projects will instead be sorted by type.
 <br>
 ### Networking
 | Project | Description |
