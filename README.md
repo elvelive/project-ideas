@@ -11,7 +11,6 @@ Do you want to contribute? Check [this](https://github.com/elvelive/project-idea
 [Graphics](https://github.com/elvelive/project-ideas#graphics),
 [Desktop apps](https://github.com/elvelive/project-ideas#desktop-apps),
 [Security](https://github.com/elvelive/project-ideas#security)
-
 }
 3. [Web](https://github.com/elvelive/project-ideas#web)
 {
