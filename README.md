@@ -20,18 +20,26 @@ Because this is such a large category there will be no easy, medium or advanced 
 ### Networking
 | Project | Description |
 | --- | --- |
+| Port scanner | Create a console app that scans a range of ports on an IP and checks if they are open. Add a UI if you feel frisky. |
+| IP locator | Create some software that can check what country an IP adress is registered in. |
+| Bandwidth monitor | Make a program, preferably with an UI, that displays the current bandwitdh and also records it. |
+| Chat app | Create a chat application for communicating in text. Start with peer-to-peer (2 users) and expand outwards. (More users, video, pictures etc.) |
+
 
 ### Filing
 | Project | Description |
 | --- | --- |
+| JSON to CSV | Create a program, with our without UI, that converts JSON files to CSV format. If you want a challenge, reverse. |
 
-### Graphs
+### Graphics
 | Project | Description |
 | --- | --- |
+|  |  |
 
 ### Desktop apps
 | Project | Description |
 | --- | --- |
+|  |  |
 
 ## Web
 ### Easy
