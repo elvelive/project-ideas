@@ -1,6 +1,9 @@
 # Project Ideas
 A repo for various programming project ideas, from simple to advanced.
 
+### Contributing
+Want to [contribute](https://github.com/elvelive/project-ideas/blob/master/CONTRIBUTION.md)?
+
 ## Problems
 
 
