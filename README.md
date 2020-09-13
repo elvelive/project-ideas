@@ -68,5 +68,12 @@ Because this is such a large category there will be no easy, medium or advanced 
 
 ## Bots
 Because this is such a large subject and there being so many different kinds of bots, it gets it's own category.
+| Project | Description |
+| --- | --- |
+| Discord bot | Start with your own server and your own needs, it's easy to think that you will create the next Mee6. |
+| Twitter bot | Create a bot that automates tweeting for you. |
 
 ## Finance
+| Project | Description |
+| --- | --- |
+|  |  |
