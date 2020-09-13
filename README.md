@@ -9,7 +9,7 @@ Do you want to contribute? Check [this](https://github.com/elvelive/project-idea
 [Networking](https://github.com/elvelive/project-ideas#networking),
 [Filing](https://github.com/elvelive/project-ideas#filing),
 [Graphics](https://github.com/elvelive/project-ideas#graphics),
-[Desktop apps](https://github.com/elvelive/project-ideas#desktop-apps),
+[Desktop apps](https://github.com/elvelive/project-ideas#desktop-apps)
 }
 3. [Web](https://github.com/elvelive/project-ideas#web)
 {
