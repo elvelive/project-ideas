@@ -4,11 +4,19 @@ Do you want to contribute? Check [this](https://github.com/elvelive/project-idea
 
 ## Table of contents
 1. [Coding problems](https://github.com/elvelive/project-ideas#coding-problems)
-2. [Desktop software](https://github.com/elvelive/project-ideas#desktop-software)
+2. [Software](https://github.com/elvelive/project-ideas#desktop-software)
+{
+[Networking](https://github.com/elvelive/project-ideas#networking),
+[Filing](https://github.com/elvelive/project-ideas#filing),
+[Graphics](https://github.com/elvelive/project-ideas#graphics),
+[Desktop apps](https://github.com/elvelive/project-ideas#desktop),
+}
 3. [Web](https://github.com/elvelive/project-ideas#web)
-{ [Easy](https://github.com/elvelive/project-ideas#easy),
+{
+[Easy](https://github.com/elvelive/project-ideas#easy),
 [Medium](https://github.com/elvelive/project-ideas#medium),
-[Advanced](https://github.com/elvelive/project-ideas#advanced) }
+[Advanced](https://github.com/elvelive/project-ideas#advanced)
+}
 4. [Bots](https://github.com/elvelive/project-ideas#bots)
 5. [Finance](https://github.com/elvelive/project-ideas#finance)
 
