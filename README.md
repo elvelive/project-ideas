@@ -14,8 +14,24 @@ Do you want to contribute? Check [this](https://github.com/elvelive/project-idea
 
 ## Coding Problems
 
-## Desktop Software
+## Software
 Because this is such a large category there will be no easy, medium or advanced categories, but projects will instead be sorted by type.
+<br>
+### Networking
+| Project | Description |
+| --- | --- |
+
+### Filing
+| Project | Description |
+| --- | --- |
+
+### Graphs
+| Project | Description |
+| --- | --- |
+
+### Desktop apps
+| Project | Description |
+| --- | --- |
 
 ## Web
 ### Easy
