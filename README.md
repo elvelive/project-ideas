@@ -31,7 +31,7 @@ Because this is such a large category there will be no easy, medium and advanced
 | --- | --- |
 | Port scanner | Create a console app that scans a range of ports on an IP and checks if they are open. Add a UI if you feel frisky. |
 | IP locator | Create some software that can check what country an IP adress is registered in. |
-| Bandwidth monitor | Make a program, preferably with an UI, that displays the current bandwitdh and also records it. |
+| Bandwidth monitor | Make a program, preferably with an UI, that displays the current bandwitdh usage and also records it. |
 | Chat app | Create a chat application for communicating in text. Start with peer-to-peer (2 users) and expand outwards. (More users, video, pictures etc.) |
 | Upchecker | Create an application that pings a list of websites at an interval to see if they respond or not. |
 | FTP client | Make your own simple FTP client. If you want to make it harder, support SSH or SSL (SFTP). |
